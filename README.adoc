@@ -1,0 +1,11 @@
+= Dancing Men
+
+Write text using "Dancing Men" font in Swing window.
+
+Usage:
+```
+gradle run --args='Hello Children'
+```
+
+Swing components are created with
+link:https://netbeans.apache.org/front/main/[Apache NetBeans]
